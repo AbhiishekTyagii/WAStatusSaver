@@ -57,8 +57,8 @@
 
 
     <!--admob ids-->
-    <string name="admob_app_id" translatable="false">ca-app-pub-2934576094041129~8887310543</string>
-    <string name="admob_banner_id" translatable="false">ca-app-pub-2934576094041129/8420406685</string>
-    <string name="admob_interstitial" translatable="false">ca-app-pub-2934576094041129/7247119333</string>
-    <string name="admob_openads" translatable="false">ca-app-pub-2934576094041129/5498729870</string>
+    <string name="admob_app_id" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="admob_banner_id" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="admob_interstitial" translatable="false">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="admob_openads" translatable="false">ca-app-pub-3940256099942544/3419835294</string>
 </resources>
