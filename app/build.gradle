@@ -11,7 +11,7 @@ android {
     defaultConfig {
         applicationId "com.karts.brutalstatussaver"
         minSdkVersion 21
-        targetSdkVersion 29
+        targetSdkVersion 33
         versionCode 2
         versionName "2.0.released"
         multiDexEnabled true
